@@ -3,6 +3,7 @@ def my_function():
 
     # $%$Start
     print("students write this on their own")
+    
     # $%$En
 
     print("More stuff")
